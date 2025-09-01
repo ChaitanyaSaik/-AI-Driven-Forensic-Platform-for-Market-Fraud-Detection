@@ -19,8 +19,7 @@ The solution is designed for scalability and integration with broker platforms, 
 - **News Sentiment Analysis**: Assesses financial news sentiment to gauge market mood.
 - **Composite Risk Score**: Generates a Low, Medium, or High-risk score.
 - **Streamlit Dashboard**: Intuitive dashboard for risk visualization.
-- **Email Alerts**: Sends real-time high-risk stock alerts.
-
+  
 ### 🔹 Advanced Features (Stretch Goals)
 - **Order-Book Anomaly Detection**: Detects spoofing & manipulation patterns in the order book.
 - **Suspicious Trader Clustering**: Identifies clusters of suspicious traders using graph analysis.
