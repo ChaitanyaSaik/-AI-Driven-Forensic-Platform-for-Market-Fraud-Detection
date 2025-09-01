@@ -49,9 +49,6 @@ Demo Video link:
 ### 💻 Frontend
 - **Streamlit Dashboard** with risk tables, trend charts, and alert logs.
 
-### 📢 Alerts
-- Email, SMS, and webhook alerts for high-risk stocks.
-
 ### 🧩 Explainability
 - **SHAP Values** for explainability.
 - **Human-readable risk alerts**: e.g., "Stock flagged due to 3× volume spike + 2 negative news items."
