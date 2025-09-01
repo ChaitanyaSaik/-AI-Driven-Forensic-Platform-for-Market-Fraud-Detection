@@ -7,7 +7,7 @@ This platform acts as an **early-warning system** by monitoring market data and 
 
 The solution is designed for scalability and integration with broker platforms, supporting SEBI’s mandate to safeguard investors and ensure transparency.
 
-Demo Video link: 
+**Demo Video link:** https://drive.google.com/file/d/1SfB3yTQ5LDk6LdeoappGiofGMA_eCLiH/view?usp=sharing
 
 ---
 
