@@ -115,7 +115,6 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 For inquiries, contact the project owner.
-
+K.Chaitanya Sai (Main Lead) 
+K. Sai Shashank (Team Member)
 ---
-
-⚡ **Hackathon-Ready:** Built for live demos with a presentation script, SHAP explainability, and national security framing.
